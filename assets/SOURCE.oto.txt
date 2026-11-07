@@ -1,0 +1,4 @@
+Original Oto logo, preserved without modification.
+Source: https://github.com/gsn943314/Oto/blob/6782c8fc4d4265a607c01982249a7dbe12620d20/build/icon.svg
+SHA-256: b5698f56a0b422246d72c4dd9f4ecb4f4470991ebf054db936fb0ce09e661a7b
+License: MIT; see LICENSE.oto.txt.
